@@ -45,7 +45,7 @@ $\frac{\partial u}{\partial t}=\frac{u_{i,j+1}-u_{i,j}}{\Delta t}$
 
 由此得到热传导方程的差分格式：
 
-$\frac{T}{M}(u_{i,j+1}-u_{i,j})-\frac{a}{h^2}(u_{i-1,j}-2u_{i,j}+u_{i+1,j}=f_{i,j},\forall (x_i,t_j)\in \Omega$
+$\frac{T}{M}(u_{i,j+1}-u_{i,j})-\frac{a}{h^2}(u_{i-1,j}-2u_{i,j}+u_{i+1,j})=f_{i,j},\forall (x_i,t_j)\in \Omega$
 
 边界条件：
 
