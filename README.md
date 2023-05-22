@@ -1,0 +1,2 @@
+# HeatConductionEquation
+这里尝试使用python搭建一个计算一维热传导方程的差分方法发求解器
